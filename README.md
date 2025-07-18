@@ -36,3 +36,16 @@ A PUBLIC FILE OPENED THROUGH ITS URL
 I CREATED GITHUB REPOSITORY(NAMED: CLOUD STORAGE SETUP) AND UPLOADED ALL THE SCREENSHOTS, A SAMPLE FILE, AND A README.MD FILE CONTAINING A BRIEF EXPLANATION OF THE TASK, BUCKET NAME, PLATFORM USED, FILE LINKS, AND STEPS FOLLOWED.
 
 THIS TASK TAUGHT ME HOW CLOUD STORAGE WORKS IN REAL-LIFE SCENARIOS. IT MADE ME COMFORTABLE WITH NAVIGATING CLOUD PLATFORMS, MANAGING STORAGE BUCKETS, AND THINKING ABOUT ACCESS CONTROL AND SECURITY. OVERALL, IT WAS A VERY INSIGHTFUL EXPERIENCE THAT BUILT A STRONG FOUNDATION FOR MORE ADVANCED CLOUD TASKS IN THE FUTURE.
+
+
+<img width="1902" height="908" alt="Image" src="https://github.com/user-attachments/assets/bab1256a-a358-49d7-ae04-9081010d7945" />
+
+<img width="1919" height="907" alt="Image" src="https://github.com/user-attachments/assets/8e351f8a-5eb9-4c03-8c27-16f81b94d5f5" />
+
+<img width="1881" height="661" alt="Image" src="https://github.com/user-attachments/assets/aafb1049-26de-4a49-91b6-10925c87ec65" />
+
+<img width="1888" height="782" alt="Image" src="https://github.com/user-attachments/assets/06e2391d-deac-4e61-9767-df70f1dd6fe6" />
+
+<img width="1905" height="758" alt="Image" src="https://github.com/user-attachments/assets/916ca182-ada2-4716-b73f-c5fbdb53fa4c" />
+
+<img width="1909" height="952" alt="Image" src="https://github.com/user-attachments/assets/0361be14-e321-468f-9a7a-124f3a4f1ac3" />
